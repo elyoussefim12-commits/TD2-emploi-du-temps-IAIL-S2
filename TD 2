@@ -1,0 +1,187 @@
+<h1 style=text-align:ceter;font-family:sans-serif;color:#333;>
+
+ Emploi du temps IAIL-S2-(2025\2026)
+
+ </h1>
+
+<table border="1" style="width:100%; text-align:center; border-collapse: collapse;">
+
+  <tr style="background-color: #eee;">
+
+    <th style="background:20px;">اليوم / الوقت</th>
+
+    <th>9h - 10h30</th>
+
+    <th>10h30 - 12h</th>
+
+    <th>12h15 - 13h45</th>
+
+    <th>13h45 - 15h15</th>
+
+    <th>15h30 - 17h</th>
+
+    <th>17h - 18h30</th>
+
+
+
+  </tr>
+
+  <tr>
+
+
+
+    <th style="height:80;padding:15px ;background-color: #f9f9f9;"><b>الاثنين</b></td>
+
+    <td>Python 2 (Cours)<br>
+
+      <strong>(M.Laraqui)</strong>
+
+    </td>
+
+    <td>Prog C 2 (Cours)<br>
+
+      <strong>(H.Omari)</strong>
+
+    </td>
+
+    <td bgcolor="gray">*</td>
+
+    <td>Prog C 2 (Grp1)<br>
+
+      <strong>(H.Omari)</strong>
+
+    </td>
+
+    <td>Python 2 (Grp3)<a  href="message_prof.html" >M.Laraqui</a></td>
+
+    <td>Python 2 (Grp2)<br>
+
+      <strong>(M.Laraqui)</strong>
+
+  </tr>
+
+  <tr>
+
+    <th style="height:80;padding:15px ;background-color: oklch(98.212% 0.00011 271.152);"><b>الثلاثاء</b></td>
+
+    <td>Python 2 (Grp1)<br>
+
+      <strong>(M.Laraqui)</strong>
+
+    </td>
+
+    <td bgcolor="gray">*</td>
+
+    <td>Digital Skills (Cours) <a  href="message_prof.html" >A.Elourdi</a></td>
+
+    <td>Digital Skills (TD)<br>
+
+      <strong>(A.Elourdi)</strong>
+
+    <td bgcolor="gray">*</td>
+
+    <td bgcolor="gray">*</td>
+
+
+
+  </tr>`    
+
+  <tr>
+
+    <th style="height:80;padding:15px ;background-color: hsl(240, 37%, 97%);"><b>الأربعاء</b></td>
+
+    <td bgcolor="gray">* </td>
+
+    <td bgcolor="gray">*</td>`
+
+    <td bgcolor="gray">*</td>
+
+    <td>Prog C 2 (Grp2)<a  href="message_prof.html" >oudani</a></td>
+
+    <td>Algèbre 2 (TD)<a  href="message_prof.html" >I.Boutaayamo </a></td>
+
+    <td>Analyse 2 (TD)<a  href="message_prof.html" >A.hadri</a></td>
+
+
+
+  </tr>
+
+  <tr>
+
+    <th style="height:80;padding:15px ;background-color: #f9f9f9;"><b>الخميس</b></td>
+
+    <td>Signal (Cours) <a  href="message_prof.html" >H.Azzahhafi</a> </td>
+
+    <td>Signal (TD)<br>
+
+      <strong>(H.Azzahhafi)</strong>
+
+    </td>
+
+    <td bgcolor="gray">*</td>
+
+    <td bgcolor="gray">*</td>
+
+    <td bgcolor="gray">*</td>
+
+    <td bgcolor="gray">*</td>
+
+
+
+  </tr>
+
+  <tr>
+
+    <th style="height:80;padding:15px ;background-color: #f9f9f9;"><b>الجمعة</b></td>
+
+
+
+    <td>Algèbre 2 (Cours)<br>
+
+      <strong>(I.Boutaayamo)</strong>
+
+    </td>
+
+    <td>Analyse 2 (Cours)<br>
+
+      <strong>(A.Hadri)</strong>
+
+    </td>
+
+    <td bgcolor="gray" >*</td>
+
+    <td bgcolor="gray">*</td>
+
+    <td bgcolor="gray">*</td>
+
+    <td bgcolor="gray">*</td>
+
+
+
+  </tr>
+
+  <tr>
+
+    <th style="height:80;padding:15px ;background-color: #f9f9f9;"><b>السبت</b></td>
+
+    <td bgcolor="gray">*</td>
+
+    <td bgcolor="gray">*</td>
+
+    <td bgcolor="gray">*</td>
+
+    <td bgcolor="gray">*</td>
+
+    <td>Web 1 (Cours)<a  href="message_prof.html" >k.Omari</a>
+
+    </td>
+
+    <td>Web 1 Td\Tp<br>
+
+      <strong>(K.Omari)</strong>
+
+    </td>
+
+  </tr>
+
+</table>
